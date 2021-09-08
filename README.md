@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Vamsi735/Vamsi735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 👦 I'm Vamsi Bhogireddy
 - 🔭 I’m currently working on WebApps
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Pair Programming
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: +1(425)4708578
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I'm a Foodie 
--->
